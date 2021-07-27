@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+}
+
+.parent-container {
+    border: 5px solid blueviolet;
+    width: 1000px;
+}
+
+.parent-container div {
+    padding: 20px 0px;
+    margin: 10px 0px;
+    color: #2196f3;
+    background: orange;
+}
+
+.px {
+    width: 400px;
+}
+
+.rem {
+    width: 25rem;
+}
+
+.em {
+    width: 25em;
+}
+
+.vh {
+    width: 123vh;
+}
+
+.vw {
+    width: 25vw;
+}
+
+.percent {
+    width: 40%;
+}
